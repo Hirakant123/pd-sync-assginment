@@ -5,10 +5,14 @@
   },
   {
     "pipedriveKey": "email",
-    "inputKey": "emailAdress"
+    "inputKey": "emailAddress"
   },
   {
     "pipedriveKey": "phone",
-    "inputKey": "phone.home"
+    "inputKey": "phoneNumber.work"
+  },
+  {
+    "pipedriveKey": "postal_address",
+    "inputKey": "address"
   }
 ]

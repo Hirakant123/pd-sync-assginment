@@ -1,9 +1,9 @@
 {
   "fullName": "Jason",
-  "emailAdress": "Jason@email.com",
+  "emailAddress": "Jason@email.com",
   "phoneNumber": {
     "home": "123-456-7890",
-    "work": "098-765-4321"
+    "work": "999-999-9999"
   },
   "address": {
     "country": "USA",
